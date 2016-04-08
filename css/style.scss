@@ -1,0 +1,48 @@
+//--------------Wireframe 1---------------
+#addedvideos{
+//display: none;
+}
+
+#searchvideos{
+//display: none;
+}
+
+//--------------Wireframe 2---------------
+#favorites{
+
+}
+
+
+
+#videodisplay{
+
+}
+
+#plusbutton{
+  float:right;
+  Width: 20%;
+  Height: 20%;
+  background-color: rgba(135, 137, 138, 0.60);
+  border:1px solid black;
+}
+
+H2 { text-align: center }
+
+li{
+  list-style-type: none;
+}
+
+#selectcategorybutton{
+  position: relative; right: 0px;
+  height: 10%;
+}
+
+img{
+  margin: 4%;
+  float: left;
+}
+
+#latestvideo{
+  text-align: right;
+  margin-right: 43%;
+}
